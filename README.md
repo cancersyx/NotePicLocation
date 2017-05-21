@@ -1,0 +1,2 @@
+# NotePicLocation
+学习笔记中放markdown图片链接的地方
